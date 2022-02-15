@@ -1,6 +1,6 @@
 # Homework
 
-Refer to some online courses, materials
+Refer to some online courses, paper
 
 
 ## LSTM
